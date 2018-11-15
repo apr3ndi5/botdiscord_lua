@@ -139,4 +139,4 @@ timer.setInterval(1000, function()
     end
 end)
 
-client:run('Bot NTEyNDQxNDg4MjY1OTY5Njk2.Ds5qFg.01wx3zfy7O5ORbZi45oMuktyTho')
+client:run('Bot your token')
